@@ -1,6 +1,6 @@
 {
   "name": "dvgrp-devcamp-js-footer",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Módulo que permite generar un pie de página dinámico (versión formación).",
   "main": "index.js",
   "scripts": {
