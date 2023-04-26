@@ -3,7 +3,7 @@
 
 Install with the command:
 ```
-npm install --save devcamp-js-footer
+npm install --save dvgrp-devcamp-js-footer
 ```
 
 Add to a JavaScript Project with the following code:
