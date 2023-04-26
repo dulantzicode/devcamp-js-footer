@@ -1,6 +1,6 @@
 {
-  "name": "dvgrp-devcamp-js-footer",
-  "version": "0.2.0",
+  "name": "dgrp-devcamp-js-footer",
+  "version": "0.1.0",
   "description": "Módulo que permite generar un pie de página dinámico (versión formación).",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dulantzicode/dvgrp-devcamp-js-footer.git"
+    "url": "git+https://github.com/dulantzicode/dgrp-devcamp-js-footer.git"
   },
   "keywords": [
     "footer"
@@ -16,9 +16,9 @@
   "author": "David Gómez <dulantzi.sm@gmail.com> (https://github.com/dulantzicode)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dulantzicode/dvgrp-devcamp-js-footer/issues"
+    "url": "https://github.com/dulantzicode/dgrp-devcamp-js-footer/issues"
   },
-  "homepage": "https://github.com/dulantzicode/dvgrp-devcamp-js-footer#readme",
+  "homepage": "https://github.com/dulantzicode/dgrp-devcamp-js-footer#readme",
   "dependencies": {
     "moment": "^2.29.4"
   }
